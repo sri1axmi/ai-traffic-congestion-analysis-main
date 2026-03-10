@@ -37,9 +37,5 @@ Ensure you have the following installed:
 - Improve predictive accuracy with deep learning models.
 - Deploy dashboard on a cloud platform.
 
-## Contributors
-- Hardik
-- Mehtab Singh
-- Nakala Harshavardhan Reddy
-- Akshith Gupta
+## Contributon
 # ai-traffic-congestion-analysis-main
